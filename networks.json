@@ -3,6 +3,10 @@
     "1": {
       "address": "0x08cd77feb3fb28cc1606a91e0ea2f5e3eaba1a9a",
       "transactionHash": "0xef142de4c3677da85a4d9d02b5c78e5ebf09af01df0114e1b4a681311ee37a0f"
+    },
+    "11155111": {
+      "address": "0xF1436859a0F04A827b79F8c92736F6331ebB64A1",
+      "transactionHash": "0x1d9e39349a1245bab80d8819848d479af0de565a59b865af6e86223e5c575f9c"
     }
   }
 }
