@@ -1,0 +1,3 @@
+rule alwaysTrue() {
+    assert true;
+}
